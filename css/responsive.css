@@ -1,0 +1,497 @@
+@media screen and (max-width:1500px) {
+    .nav-area ul li {
+        margin-right: 12px;
+    }
+
+}
+
+@media screen and (max-width:1400px) {
+    .contact {
+        padding: 110px 50px;
+    }
+    .carousel-control-prev {
+        left: -94px !important;
+    }
+    .blog-area {
+        padding: 100px 50px;
+    }
+    .tasty-meals {
+        padding: 110px 100px 90px 100px;
+    }
+}
+
+
+@media screen and (max-width:1300px) {
+
+    header {
+        padding: 0 80px;
+    }
+
+    .carousel-control-prev {
+        left: -87px !important;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .social-media-item a {
+        margin-right: 0;
+    }
+
+    header {
+        padding: 0 0px;
+    }
+   
+    .welcome-img-1{
+        margin-right: 20px;
+    }
+
+    .welcome-img-2 img{
+    width: 100%;
+    height: 100%;
+}
+.welcome-img-1 img{
+    width: 100%;
+    height: 100%;
+    margin-right: 20px;
+}
+
+.delicious-recipes-content {
+    padding: 70px 30px;
+}
+
+.dishes-border {
+    width: 90%;
+}
+
+}
+
+@media screen and (max-width:1150px) {
+
+    .carousel-control-prev {
+        left: -76px !important;
+    }
+    .our-story-section {
+        padding: 110px 50px;
+    }
+    .brands-img{
+        flex-wrap: wrap;
+    }
+
+}
+
+
+@media screen and (max-width:992px) {
+    .shop-menus{
+        margin: 110px 50px;
+    }
+    .column-grids{
+        padding: 110px 50px;
+    }
+    .btns button{
+        margin-bottom: 20px;
+    }
+    .blockquotes{
+        padding: 110px 50px;
+    }
+    
+    .filter-items{
+        flex-direction: column;
+    }
+    .our-story-section {
+        padding: 110px 25px;
+    }
+    .breakfast-menu-details {
+        padding: 110px 0;
+    }
+    .dish-details{
+        display: flex;
+        justify-content: center;
+    }
+    .dish-content {
+        max-width: 290px;
+    }
+    .menu-modal{
+        display: flex;
+        justify-content: center;
+    }
+    .menu-modal img {
+        width: auto;
+        /* height: 100%; */
+    }
+    .footer-item {
+        margin-bottom: 40px;
+    }
+    .social-media-item a {
+        margin-right: 10px;
+    }
+
+    .tasty-meals {
+        padding: 110px 20px 90px 20px;
+    }
+    .book-quote-content p {
+        font-size: 35px;
+        text-align: center;
+    }
+    .mobile-menu i{
+        font-size: 30px;
+        color: #fff;
+        display: block;
+        cursor: pointer;
+        position: absolute;
+        right: 20px;
+        top: -15px;
+    }
+    .mobile-menu .navbar{
+        display: block !important;
+    }
+    .nav-area ul li{
+        display: none;
+    }
+    .nav-area button{
+        display: none;
+    }
+    .menu-icons button{
+        display: none;
+    }
+
+    .carousel-control-prev {
+        left: -63px !important;
+    }
+    .welcome-content{
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .header-bottom-items h1 {
+        font-size: 55px;
+    }
+    .dish-img{
+        max-width: 290px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+   
+    .welcome-content h1 {
+        font-size: 40px;
+    }
+}
+
+
+@media screen and (max-width:768px) {
+    .shop-menus{
+        margin: 110px 20px;
+    }
+    .specials-img{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+    }
+    .meal-item-2{
+        flex-direction: column !important;
+    }
+    .blockquotes{
+        padding: 110px 20px;
+    }
+    
+    .filter-item-left{
+        flex-direction: column;
+    }
+    .our-story-img img{
+        margin-bottom: 30px;
+    }
+    .shop-breadcrumb {
+        padding-top: 50px;
+    }
+    .meal-right-top{
+        flex-direction: column;
+    }
+    .meal-right-bottom p {
+        text-align: center;
+    }
+    .dishes-border {
+        width: 100%;
+    }
+    .delicious-recipes-heading h1 {
+        font-size: 40px;
+    }
+    
+    .topnav #myLinks {
+        right: -25px;
+        width: 570px;
+    }
+}
+
+@media screen and (max-width:615px) {
+    .topnav #myLinks {
+        right: -12px;
+        width: 540px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .header-bottom-items p {
+        font-size: 14px;
+    }
+    .header-bottom-items h1 {
+        line-height: 50px;
+    }
+    header {
+        padding: 0 20px;
+    }
+    .topnav #myLinks {
+        right: 0px;
+        width: 520px;
+    }
+}
+
+@media screen and (max-width:580px) {
+    .topnav #myLinks {
+        right: 11px;
+        width: 490px;
+    }
+}
+
+@media screen and (max-width:570px){
+    .topnav #myLinks {
+        right: 20px;
+        width: 460px;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .topnav #myLinks {
+        right: 15px;
+        width: 460px;
+    }
+}
+
+@media screen and (max-width:540px) {
+    .header-bottom-items p {
+        font-size: 13px;
+    }
+    .welcome-content h1 {
+        font-size: 40px;
+    }
+    .topnav #myLinks {
+        right: 15px;
+        width: 450px;
+    }
+}
+
+@media screen and (max-width:530px) {
+    .topnav #myLinks {
+        right: 11px;
+    }
+}
+
+@media screen and (max-width:520px) {
+    .topnav #myLinks {
+        width: 440px;
+    }
+    .topnav #myLinks {
+        right: 8px;
+    }
+}
+
+@media screen and (max-width:510px) {
+    .dishes-border {
+        width: 100%;
+    }
+    .delicious-recipes-heading h1 {
+        font-size: 35px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .topnav #myLinks {
+        width: 420px;
+        right: 0px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .topnav #myLinks {
+        width: 400px !important;
+        right: 13px;
+    }
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 767px){
+    .menu-simple-container {
+        padding: 0 30px;
+    }
+    .menu-details {
+        max-width: 390px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .index-menu-modal img{
+        max-width: 390px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .index-menu-modal{
+        display: flex;
+        justify-content: center;
+    }
+    .social-media,.footer-center{
+        margin-bottom: 40px;
+    }
+
+    .header-bottom-items h1 {
+        font-size: 45px !important;
+    }
+
+    .header-bottom-items h3 {
+        font-size: 30px;
+    }
+
+    .book-btn button {
+        font-family: 'Poppins', sans-serif;
+        width: 200px;
+    }
+    .carousel-control-prev {
+        left: -37px !important;
+    }
+
+    .meal-item{
+        flex-direction: column;
+    }
+    .meal-left{
+        margin-bottom: 20px;
+    }
+
+    .owl-nav{
+        display: none;
+    }
+    .meal-nav ul{
+        flex-wrap: wrap;
+    }
+}
+
+
+@media screen and (max-width:400px) {
+    .social-media-item a {
+        margin-right: 0px;
+    }
+    .delicious-recipes-heading h3 {
+        color: #bb9356;
+        font-family: 'Ruthie', cursive;
+        font-size: 35px;
+    }
+    .delicious-recipes-heading h1 {
+        font-size: 32px;
+    }
+    .carousel-control-prev {
+        left: -15px !important;
+    }
+
+    .welcome-content h1 {
+        font-size: 31px;
+    }
+    .welcome-content h3 {
+        font-size: 36px;
+    }
+    .delicious-recipes-container {
+        padding: 0px;
+    }
+    .delicious-recipes-content {
+        padding: 70px 10px;
+    }
+    .topnav #myLinks {
+        right: 11px;
+        width: 320px;
+    }
+    .contact {
+        padding: 110px 10px;
+    }
+}
+
+@media screen and (max-width:470px) {
+    .topnav #myLinks {
+        width: 400px !important;
+        right: 9px;
+    }
+}
+
+@media screen and (max-width:460px) {
+    .topnav #myLinks {
+        width: 380px !important;
+        right: 9px;
+    }
+}
+
+
+@media screen and (max-width:450px) {
+    .topnav #myLinks {
+        width: 360px !important;
+        right: 9px;
+    }
+}
+
+@media screen and (max-width:420px){
+    .topnav #myLinks {
+        width: 340px !important;
+        right: 10px;
+    }
+}
+
+
+@media only screen and (min-width: 350px) and (max-width: 400px){
+    .topnav #myLinks {
+        width: 300px !important;
+        right: -4px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 350px){
+    .topnav #myLinks {
+        width: 252px !important;
+        right: 4px;
+    }
+    .shop-breadcrumb {
+        padding-top: 6px;
+    }
+    .header-bottom-items h1 {
+        font-size: 35px !important;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1470px){
+    .menu-modal img {
+        height: 370px;
+    }
+    .menu-details-content h4{
+        font-size: 1.1rem;
+    }
+    .menu-details-content img {
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .menu-details {
+        padding: 25px;
+    }
+    .menu-details-content p {
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 17px;
+    }
+}
+
+@media screen and (max-width:992px){
+    .menu-modal img {
+        height: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
